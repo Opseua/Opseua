@@ -22,7 +22,7 @@
 
 <div align="center">
 
-  ![Snake animation](https://github.com/ytallobruno/ytallobruno/blob/output/github-contribution-grid-snake.svg) <!--[cobrinha]-->
+  ![Snake animation](https://raw.githubusercontent.com/Opseua/Opseua/main/files/github-contribution-grid-snake.svg) <!--[cobrinha]-->
  
 </div>
 
